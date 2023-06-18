@@ -53,7 +53,7 @@
             "description": null,
             "id": "topnav_is_dark",
             "format": "switch",
-            "required": false,
+            "required": true,
             "value": true,
             "selected": false
         },
